@@ -1,16 +1,17 @@
-id: opecha:P000354
+id: P000354
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3510
   title: གང་ཤར་རྡོ་རྗེའི་གླུ་ཕྲེང་སྐལ་བཟང་རྣ་བའི་དགའ་སྟོན། ཟབ་དོན་རྡོ་རྗེའི་གླུའི་སྐོར།
-  volume:
+  author: ''
+  volumes:
     3fb4fa8a370a4cfabea875be56c1c682:
       image_group_id: I1KG3582
       title: Volume 1 of gang shar rdo rje'i glu phreng skal bzang rna ba'i dga' ston/
         zab don rdo rje'i glu'i skor
       volume_number: 1
       total_pages: 568
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གང་ཤར་རྡོ་རྗེའི་གླུ་ཕྲེང་སྐལ་བཟང་རྣ་བའི་དགའ་སྟོན། ཟབ་དོན་རྡོ་རྗེའི་གླུའི་སྐོར།
   author: ''
